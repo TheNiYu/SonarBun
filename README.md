@@ -1,5 +1,11 @@
 # 🎧 SonarBun - by TheNiYu
 
+<div align="center">
+
+**English** | [日本語](README_JA.md)
+
+</div>
+
 A real-time audio transcription and translation tool for Windows.
 
 SonarBun can listen to desktop/output audio or an input device such as a microphone, transcribe speech locally with Whisper, and translate it through an online API service or a local offline model.
