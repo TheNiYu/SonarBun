@@ -1,0 +1,16 @@
+# Binary releases are uploaded through GitHub Releases, not committed here.
+*.exe
+*.zip
+*.7z
+
+# Local/generated application data
+models/
+history.txt
+live.txt
+translation_cache.json
+sonarbun_config.json
+*.dpapi
+
+# Local tooling
+.DS_Store
+Thumbs.db
